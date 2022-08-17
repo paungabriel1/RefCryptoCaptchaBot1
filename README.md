@@ -1,2 +1,1 @@
-# RefCryptoCaptchaBot
-Tipo
+# Referral Crypto Bot with Captcha
