@@ -1,5 +1,5 @@
 ### ---___--- ТОКЕН ОТ ТЕЛЕГРАМ БОТА ---___--- ###
-bot_api = "5428268884:AAGfPPhdaQ6gEs50EWWS9lTMOp-56uQ88r8"
+bot_api = "TOKEN"
 
 
 
