@@ -75,6 +75,7 @@ def get_captha():
 
 async def get_price():
     reduction_full_name = {
+        "TRX": "tron",
         "BTC": "bitcoin",
         "ETH": "ethereum",
         "USDT": "binancecoin",
